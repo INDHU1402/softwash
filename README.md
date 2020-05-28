@@ -1,3 +1,5 @@
 # softwash
 
-softwash is a django project based on laundry management system where user can order his/her laundry.
+Softwash is a laundry based application where user can order his laundry online.
+
+This is a django (python based web application) project.
